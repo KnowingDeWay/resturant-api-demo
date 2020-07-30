@@ -1,0 +1,14 @@
+C:\Users\Andre Bella\source\repos\Web API Practice\Web API Practice\bin\Debug\netcoreapp2.2\Web API Practice.deps.json
+C:\Users\Andre Bella\source\repos\Web API Practice\Web API Practice\bin\Debug\netcoreapp2.2\Web API Practice.runtimeconfig.json
+C:\Users\Andre Bella\source\repos\Web API Practice\Web API Practice\bin\Debug\netcoreapp2.2\Web API Practice.runtimeconfig.dev.json
+C:\Users\Andre Bella\source\repos\Web API Practice\Web API Practice\bin\Debug\netcoreapp2.2\Web API Practice.dll
+C:\Users\Andre Bella\source\repos\Web API Practice\Web API Practice\obj\Debug\netcoreapp2.2\Web API Practice.csprojAssemblyReference.cache
+C:\Users\Andre Bella\source\repos\Web API Practice\Web API Practice\obj\Debug\netcoreapp2.2\Web API Practice.csproj.CoreCompileInputs.cache
+C:\Users\Andre Bella\source\repos\Web API Practice\Web API Practice\obj\Debug\netcoreapp2.2\Web API Practice.RazorAssemblyInfo.cache
+C:\Users\Andre Bella\source\repos\Web API Practice\Web API Practice\obj\Debug\netcoreapp2.2\Web API Practice.RazorAssemblyInfo.cs
+C:\Users\Andre Bella\source\repos\Web API Practice\Web API Practice\obj\Debug\netcoreapp2.2\Web API Practice.AssemblyInfoInputs.cache
+C:\Users\Andre Bella\source\repos\Web API Practice\Web API Practice\obj\Debug\netcoreapp2.2\Web API Practice.AssemblyInfo.cs
+C:\Users\Andre Bella\source\repos\Web API Practice\Web API Practice\obj\Debug\netcoreapp2.2\Web API Practice.RazorTargetAssemblyInfo.cache
+C:\Users\Andre Bella\source\repos\Web API Practice\Web API Practice\bin\Debug\netcoreapp2.2\Web API Practice.pdb
+C:\Users\Andre Bella\source\repos\Web API Practice\Web API Practice\obj\Debug\netcoreapp2.2\Web API Practice.dll
+C:\Users\Andre Bella\source\repos\Web API Practice\Web API Practice\obj\Debug\netcoreapp2.2\Web API Practice.pdb

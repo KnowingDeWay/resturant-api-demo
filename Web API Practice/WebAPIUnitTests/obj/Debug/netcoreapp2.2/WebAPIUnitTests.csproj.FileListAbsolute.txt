@@ -1,0 +1,17 @@
+C:\Users\Andre Bella\source\repos\Web API Practice\WebAPIUnitTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Andre Bella\source\repos\Web API Practice\WebAPIUnitTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Andre Bella\source\repos\Web API Practice\WebAPIUnitTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Andre Bella\source\repos\Web API Practice\WebAPIUnitTests\bin\Debug\netcoreapp2.2\WebAPIUnitTests.deps.json
+C:\Users\Andre Bella\source\repos\Web API Practice\WebAPIUnitTests\bin\Debug\netcoreapp2.2\WebAPIUnitTests.runtimeconfig.json
+C:\Users\Andre Bella\source\repos\Web API Practice\WebAPIUnitTests\bin\Debug\netcoreapp2.2\WebAPIUnitTests.runtimeconfig.dev.json
+C:\Users\Andre Bella\source\repos\Web API Practice\WebAPIUnitTests\bin\Debug\netcoreapp2.2\WebAPIUnitTests.dll
+C:\Users\Andre Bella\source\repos\Web API Practice\WebAPIUnitTests\bin\Debug\netcoreapp2.2\Web API Practice.dll
+C:\Users\Andre Bella\source\repos\Web API Practice\WebAPIUnitTests\bin\Debug\netcoreapp2.2\Web API Practice.pdb
+C:\Users\Andre Bella\source\repos\Web API Practice\WebAPIUnitTests\obj\Debug\netcoreapp2.2\WebAPIUnitTests.csprojAssemblyReference.cache
+C:\Users\Andre Bella\source\repos\Web API Practice\WebAPIUnitTests\obj\Debug\netcoreapp2.2\WebAPIUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Andre Bella\source\repos\Web API Practice\WebAPIUnitTests\obj\Debug\netcoreapp2.2\WebAPIUnitTests.AssemblyInfoInputs.cache
+C:\Users\Andre Bella\source\repos\Web API Practice\WebAPIUnitTests\obj\Debug\netcoreapp2.2\WebAPIUnitTests.AssemblyInfo.cs
+C:\Users\Andre Bella\source\repos\Web API Practice\WebAPIUnitTests\obj\Debug\netcoreapp2.2\WebAPIUnitTests.csproj.CopyComplete
+C:\Users\Andre Bella\source\repos\Web API Practice\WebAPIUnitTests\bin\Debug\netcoreapp2.2\WebAPIUnitTests.pdb
+C:\Users\Andre Bella\source\repos\Web API Practice\WebAPIUnitTests\obj\Debug\netcoreapp2.2\WebAPIUnitTests.dll
+C:\Users\Andre Bella\source\repos\Web API Practice\WebAPIUnitTests\obj\Debug\netcoreapp2.2\WebAPIUnitTests.pdb
